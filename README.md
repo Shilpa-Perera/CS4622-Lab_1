@@ -1,5 +1,8 @@
 # CS4622-Lab_1
 
+## Colab Link
+https://colab.research.google.com/drive/1BTuA0qJ_MGBnL3_PH66MY2IwlqFitDQb?usp=sharing
+
 ## Data-set Description
 
 1. For this lab, 2 CSV files have been provided.
