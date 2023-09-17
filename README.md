@@ -1,5 +1,5 @@
 # CS4622-Lab_1
-Machine Learning Lab 1
+
 ## Data-set Description
 
 1. For this lab, 2 CSV files have been provided.
